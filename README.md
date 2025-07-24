@@ -8,8 +8,8 @@
  - 💼: Career journey —
    - Intern at **TeamLab**, working in Physical Computing and Computer Graphics.
    - Product Manager at **GMO Internet Group**, serving as Japan Director for [PlayCanvas](https://github.com/playcanvas), recognized Developer Expert in Web Frontend and WebGL.
-   - Manager | FullStack Development at **Avanade**, leading IT consulting and upstream strategy for modernization projects across government agencies and mega bank.
-   - Currently working as a Specialist at the Product R&D Dept. at **Avant**, focusing on the research and development of next-gen products.
+   - Manager | FullStack Development at **Avanade**, leading IT consulting and upstream strategy for modernization projects across government agencies and mega banks.
+   - Currently working as a Specialist in the Product R&D Dept. at **Avant**, focusing on the research and development of next-gen products.
  - 🎨: Specialized in Web expression and UI/UX — blending deep structure with expressive interactivity
  - 💬: Pronouns: He/Him
  - 🚀: Always open to conversations around system design, user experience, or frontier tech. Let’s connect.
