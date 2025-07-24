@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="https://github-profile-trophy.vercel.app/?username=ryotarotsuda-avantcorp" />
 <!--
 **ryotarotsuda-avantcorp/ryotarotsuda-avantcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
