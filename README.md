@@ -11,7 +11,6 @@
    - Manager | FullStack Development at **Avanade**, leading IT consulting and upstream strategy for modernization projects across government agencies and mega banks.
    - Currently working as a Specialist in the Product R&D Dept. at **Avant**, focusing on the research and development of next-gen products.
  - 🎨: Specialized in Web expression and UI/UX — blending deep structure with expressive interactivity
- - 💬: Pronouns: He/Him
  - 🚀: Always open to conversations around system design, user experience, or frontier tech. Let’s connect.
 
 [![ryotaro's github stats](https://github-readme-stats.vercel.app/api?username=ryotarotsuda-avantcorp&show_icons=true&theme=merko)](https://github.com/ryotarotsuda-avantcorp/github-readme-stats)
