@@ -7,7 +7,7 @@
  - 🧠: Expertise in Information Media, HCI, Computer Graphics, and Entertainment Systems
  - 💼: Career journey —
    - Intern at **TeamLab**, working in Physical Computing and Computer Graphics.
-   - Product Manager at **GMO Internet Group**, serving as Japan Director for [PlayCanvas](https://github.com/playcanvas), recognized Developer Expert in Web Frontend and WebGL.
+   - CRE -> PdM at **GMO Internet Group**, serving as Japan Director for [PlayCanvas](https://github.com/playcanvas), recognized Developer Expert in Web Frontend and WebGL.
    - Manager | FullStack Development at **Avanade**, leading IT consulting and upstream strategy for modernization projects across government agencies and mega banks.
    - Currently working as a Specialist in the Product R&D Dept. at **Avant**, focusing on the research and development of next-gen products.
  - 🎨: Specialized in Web expression and UI/UX — blending deep structure with expressive interactivity
