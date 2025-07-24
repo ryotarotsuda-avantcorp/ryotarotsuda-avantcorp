@@ -3,11 +3,15 @@
 <Br>
 <h1>About Me! 😎</h1>
 
- - 🏢: Specialist at PRD / PDU / AVANT.
- - 🧠: Focused on Web expression and UI/UX — from structure to subtle interactions.
- - 🧰: Working hands-on in Cursor, crafting ideas into real experiences.
- - 💬: Pronouns: He/Him.
- - 🚀: Always up for chatting about projects, design thinking, or anything UI-related. Hit me up!
+ - 🏢: Specialist at PRD / PDU / AVANT
+ - 🧠: Expertise in Information Media, HCI, Computer Graphics, and Entertainment Systems
+ - 💼: Career journey —
+   - Product Manager at **GMO Group**, leading SaaS product development
+   - IT Strategy Consultant at **Avanade**, managing modernization projects for government agencies and mega banks (PM/PMO)
+   - Currently building and shipping at **Avant**
+ - 🎨: Specialized in Web expression and UI/UX — blending deep structure with expressive interactivity
+ - 💬: Pronouns: He/Him
+ - 🚀: Always open to conversations around system design, user experience, or frontier tech. Let’s connect.
 
 [![ryotaro's github stats](https://github-readme-stats.vercel.app/api?username=ryotarotsuda-avantcorp&show_icons=true&theme=merko)](https://github.com/ryotarotsuda-avantcorp/github-readme-stats)
   
