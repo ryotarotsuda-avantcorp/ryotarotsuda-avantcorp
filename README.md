@@ -1,6 +1,3 @@
-<hr>
-<h1 align="center">I'm <a href="https://github.com/ryotarotsuda-avantcorp">Ryotaro Tsuda<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
 <h1>About Me! 😎</h1>
 
  - 🏢: Specialist at PRD / PDU / AVANT
